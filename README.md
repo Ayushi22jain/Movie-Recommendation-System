@@ -42,3 +42,24 @@ To run this project locally, follow these steps:
 ```bash
 git clone [https://github.com/Ayushi22jain/Movie-Recommendation-System.git](https://github.com/Ayushi22jain/Movie-Recommendation-System.git)
 cd Movie-Recommendation-System
+2. Install Dependencies
+Bash
+pip install -r requirements.txt
+3. Run the Application
+Bash
+python main.py
+Open http://127.0.0.1:5000/ in your browser.
+
+📈 Key Features
+Real-time Suggestions: Instant movie recommendations based on metadata similarity.
+
+Sentiment Analysis: Automatically detects the tone of reviews to help users decide what to watch.
+
+AJAX Integration: Seamlessly fetches data from the backend without page refreshes.
+
+End-to-End Pipeline: Covers everything from data cleaning to a deployed web UI.
+
+🔗 Author
+Ayushi Jain
+
+GitHub: Ayushi22jain
