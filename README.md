@@ -42,11 +42,13 @@ To run this project locally, follow these steps:
 ```bash
 git clone [https://github.com/Ayushi22jain/Movie-Recommendation-System.git](https://github.com/Ayushi22jain/Movie-Recommendation-System.git)
 cd Movie-Recommendation-System
+
+
 ### 2. Install Dependencies
-Bash
+```Bash
 pip install -r requirements.txt
 ### 3. Run the Application
-Bash
+```Bash
 python main.py
 Open http://127.0.0.1:5000/ in your browser.
 
