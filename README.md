@@ -4,9 +4,6 @@
 
 
 
-
-
-
 ## 🎬 Advanced Content-Based Filtering & NLP
 
 This project is a high-performance recommendation engine that suggests movies based on content similarity and utilizes **Natural Language Processing (NLP)** to analyze user sentiment from reviews in real-time. It bridges the gap between raw data science models and a functional web application.
